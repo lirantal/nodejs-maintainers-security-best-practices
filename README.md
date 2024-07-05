@@ -65,7 +65,7 @@ This isn't intuitive and verbose, and so, you may reserve this pattern for sensi
 
 ### Do not use unknown Actions for GitHub Actions 
 
-### Do not use 
+### Do not use user-controllable variables in shell expansion in GitHub Actions
 
 ### Always pin the GitHub Action source using a SHA
 
