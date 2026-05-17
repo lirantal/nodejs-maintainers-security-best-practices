@@ -69,3 +69,7 @@ This isn't intuitive and verbose, and so, you may reserve this pattern for sensi
 
 ### Always pin the GitHub Action source using a SHA
 
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
